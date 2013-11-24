@@ -1,0 +1,8 @@
+.DS_Store
+amsSetup/
+factualapiKey.js
+notes/
+/datasets/node_modules
+/datasets/USstockHistory167Mb
+/datasets/LocationDemographicscsv
+/datsy-api/
